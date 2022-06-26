@@ -31,7 +31,7 @@
   </div>
 
 <div align=center>
-        <img src=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&lines=Hello+My+name+is+Amay;Student;Web+Developer;Competitive+Programmer;Data+Structure+Enthusiast;Problem+Solver)](https://git.io/typing-svg)alt="Headline" />
+        <img src=https://readme-typing-svg.herokuapp.com?font=&lines=Hello+My+name+is+Amay;Student;Web+Developer;Competitive+Programmer;Data+Structure+Enthusiast;Problem+Solver alt="Headline" />
     </div>
     <div align=center>
 
