@@ -31,7 +31,7 @@
   </div>
 
 <div align=center>
-        <img src=https://readme-typing-svg.herokuapp.com?font=&lines=Hello+My+name+is+Amay;Student;Web+Developer;Competitive+Programmer;Data+Structure+Enthusiast;Problem+Solver alt="Headline" />
+        <img src=https://readme-typing-svg.herokuapp.com?font=&size=30&lines=Hello+My+name+is+Amay;Student;Web+Developer;Competitive+Programmer;Data+Structure+Enthusiast;Problem+Solver />
     </div>
     <div align=center>
 
