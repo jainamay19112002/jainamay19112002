@@ -30,7 +30,10 @@
 </h1>
   </div>
 
-
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Amay+%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;Problem+Solver;Freelancer;Open-Source+ Data Structure+Enthusiast" alt="Headline" />
+    </div>
+    <div align=center>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -40,13 +43,15 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Currently I’m Pursuing B.tech (Computer Sscience Engineering) from Medi-caps University, Indore.
+- :telescope: Currently I’m Pursuing B.tech (Computer Science Engineering) from Medi-caps University, Indore.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Computer Science and Software Engineering.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, leetcode, codechef and read tech articles.
+- :zap: In my free time, I love to solve problems on GeeksforGeeks, Leetcode, Codechef and read tech articles.
 
-- ✳ My fields of interest include Web Development, Data Structure enthusiast, Competitive Programmer. My Strengths include time management, leadership qualities, a Quick learner and an active listener.
+- ✳ My fields of interest include Web Development, Data Structure enthusiast, Competitive Programmer. My Strengths include time management, leadership qualities,          problem solving, a Quick learner and an active listener.
+  
+ - 😄: Apart from Academics I am a avid football fan.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Amay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amay-jain-6aa343225/)
 
