@@ -5,16 +5,6 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/amay-jain-6aa343225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/monster_2002/">
-    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://twitter.com/amayjain6">
-    <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-<a href="https://www.codechef.com/users/monster1911#">
-    <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-  </a>
 </div>
 
 <a href="https://komarev.com/ghpvc/?username=jainamay19">
