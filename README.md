@@ -33,7 +33,6 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: Currently I’m Pursuing B.tech (Computer Science Engineering) from Medi-caps University, Indore.
 
 - :seedling: Exploring Computer Science and Software Engineering.
 
